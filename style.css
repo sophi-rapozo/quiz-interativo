@@ -13,4 +13,10 @@ body {
   color: var(--cor-texto);
   font-family: 'Inter', sans-serif;
   display: flex;
-  justify-con
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.caixa-principal {
+  
